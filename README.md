@@ -1,7 +1,8 @@
 ### Oi, eu sou o Eduardo Morais
 
 - 🔭 Atualmente estudo Engenharia De Computação no Instituto Federal Da Praiba(IFPB).
-- 🌱 Estudando linguagens de programação como C, Python, JavaScript e fazendo estudos de DataScience.
+- 🌱 Estudando linguagens de programação como C, Python e JavaScript.
+- 📊 Fazendo estudos sobre DataScience.
 - 📫 Contate-me pelo Email: eduardo.henrique.lima.morais@gmail.com
 - 😄 Pronomes: Ele/Dele
 <div style="display: inline_block"><br>
