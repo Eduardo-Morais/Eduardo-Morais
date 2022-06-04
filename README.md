@@ -1,8 +1,8 @@
 ### Oi, eu sou o Eduardo Morais
 
 - 🔭 Atualmente estudo Engenharia De Computação no Instituto Federal De Ciência e Tecnologia(IFPB).
-- 🌱 Estudando linguagens de programação como C, Python e JavaScript.
-- 📊 Fazendo estudos sobre DataScience.
+- 🌱 Estudando linguagens de programação como C, Python, HTML e CSS.
+- 📊 Fazendo estudos sobre DataScience e Desenvolvimento Web.
 - 📫 Contate-me pelo Email: eduardo.henrique.lima.morais@gmail.com
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
