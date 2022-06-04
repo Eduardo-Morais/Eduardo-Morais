@@ -1,9 +1,11 @@
+<hr>
 <h2>Oi, eu sou o Eduardo Morais</h2>
 
 - 🔭 Atualmente estudo <strong>Engenharia De Computação no Instituto Federal De Ciência e Tecnologia(IFPB)</strong>.
 - 🌱 Estudando linguagens de programação como C, Python, HTML e CSS.
 - 📊 Fazendo estudos sobre DataScience e Desenvolvimento Web.
 - 📫 Contate-me pelo Email: eduardo.henrique.lima.morais@gmail.com
+<hr>
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
