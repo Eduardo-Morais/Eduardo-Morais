@@ -21,6 +21,7 @@
     <img align="center" alt="CSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="docker" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg">
   <img align="center" alt="docker" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original.svg">
+  <img align="center" alt="docker" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vagrant/vagrant-original.svg">
   </div>
 <hr>
 <div align="center">
